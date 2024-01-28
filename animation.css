@@ -1,0 +1,143 @@
+body
+{
+    
+    background-color: rgb(180, 167, 190);
+
+}
+.h1
+{
+    text-align: center;
+    margin-left: -30px;
+    background-color: blue;
+    border: 3px solid;
+    border-radius: 30%;
+}
+#vatch
+{
+    width: 500px;
+    height: 500px;
+    border: 2px solid;
+    border-radius: 50%;
+    margin-top: 80px;
+    margin-left: 500px;
+    box-shadow: 0px 0px 20px rgb(42, 58, 165);
+}
+.c1
+{
+    box-shadow: 0px 0px 20px blue;
+    border: 2px solid;
+    width: 250px;
+    margin-top: 120px;
+    margin-left: 125px;
+    transform:rotate(90deg) 
+    
+
+}
+.c2
+{ 
+    box-shadow: 0px 0px 20px blue;
+    border: 2px solid;
+    width: 250px;
+    margin-top: 120px;
+    margin-left: 245px;
+    transform:rotate(180deg) 
+   
+    
+}
+
+
+.box
+{
+    list-style: none;
+}
+.one
+{
+    font-size: 30px;
+    margin-left: 350px;
+    margin-top: -10;
+    
+}
+.tvo
+{
+    font-size: 30px;
+    margin-left: 440px; 
+    margin-top: 55px;
+    
+}
+.three
+{
+    font-size: 30px;
+    margin-left: 470px;
+    margin-top: 110px;
+    
+}
+.four
+{
+    font-size: 30px;
+    margin-left: 420px;
+    margin-top: 110px;
+}
+.five
+{
+    font-size: 30px;
+    margin-left: 330px;
+    margin-top: 50px;
+}
+.six
+{
+    font-size: 30px;
+    margin-left: 200px;
+}
+.seven
+{
+    font-size: 30px;
+    margin-left: 80px;
+    margin-top: -65px;
+}
+.eight
+{
+    font-size: 30px;
+    margin-top: -130px;
+    margin-left: -20px;
+    
+}
+.nine
+{
+    font-size: 30px;
+    margin-top: -180px;
+    margin-left: -60px;
+    
+}
+.ten
+{
+    font-size: 30px;
+    margin-top: -170px;
+    margin-left: -40px;
+    
+}
+.eleven
+{
+    font-size: 30px;
+    margin-top: -130px;
+    margin-left: 50px;
+    
+}
+.tvelve
+{
+    font-size: 30px;
+    margin-top: -75px;
+    margin-left: 190px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
